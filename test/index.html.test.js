@@ -13,3 +13,4 @@ describe("index.html", () => {
     expect(fileExists, errorHint).to.be.true;
   });
 });
+
